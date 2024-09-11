@@ -5,5 +5,6 @@ iOS Ring Sizer is a user-friendly app designed to help you find the perfect ring
 ### Quick demo ! 
 https://youtu.be/NUFyC3ABkVk
 
-<img width="524" alt="image" src="https://github.com/user-attachments/assets/301c627b-8b5e-4060-9419-f30f46fc861a">
+![IMG_3630AE11A2DB-1](https://github.com/user-attachments/assets/7527f9f5-43df-4c8a-b3d5-26f07bd68d81)
+
 
